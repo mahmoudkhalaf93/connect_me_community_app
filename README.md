@@ -60,7 +60,7 @@ The codebase is divided into three distinct layers:
 ### App Previews
 | View 1 | View 2 |
 | :---: | :---: |
-| ![Screen](screenshots/1.png) | ![Screen](screenshots/2.jpg) |
+| ![Screen](screenshots/1.jpg) | ![Screen](screenshots/2.png) |
 
 | View 3 | View 4 |
 | :---: | :---: |
@@ -83,7 +83,7 @@ As part of the production lifecycle, a beta build of this application was distri
 ### Distribution Proof
 | View 7 | View 8 |
 | :---: | :---: |
-| ![Screen](screenshots/screenshot_7.jpg) | ![Screen](screenshots/20.jpg) |
+| ![Screen](screenshots/7.jpg) | ![Screen](screenshots/8.jpg) |
 
 ---
 
