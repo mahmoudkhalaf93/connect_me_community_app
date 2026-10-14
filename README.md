@@ -60,15 +60,15 @@ The codebase is divided into three distinct layers:
 ### App Previews
 | View 1 | View 2 |
 | :---: | :---: |
-| ![Screen](screenshots/screenshot_1.png) | ![Screen](screenshots/screenshot_2.jpg) |
+| ![Screen](screenshots/1.png) | ![Screen](screenshots/2.jpg) |
 
 | View 3 | View 4 |
 | :---: | :---: |
-| ![Screen](screenshots/screenshot_3.jpg) | ![Screen](screenshots/screenshot_4.jpg) |
+| ![Screen](screenshots/3.jpg) | ![Screen](screenshots/4.jpg) |
 
 | View 5 | View 6 |
 | :---: | :---: |
-| ![Screen](screenshots/screenshot_5.jpg) | ![Screen](screenshots/screenshot_6.jpg) |
+| ![Screen](screenshots/5.jpg) | ![Screen](screenshots/6.jpg) |
 
 ---
 
