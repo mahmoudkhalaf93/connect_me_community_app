@@ -82,7 +82,7 @@ class _LoginScreenState extends State<LoginScreen> {
                               ..rotateZ(-3.14),
                             alignment: Alignment.center,
                             child: Image.asset(
-                              'assets/images/pexels-freestocksorg-818654_1.png',
+                              'assets/images/pexels_freestocksorg_818654_1.png',
                               width: 375, // Scaled for proportion
                               fit: BoxFit.cover,
                             ),
@@ -150,7 +150,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             controller: _passwordController,
                             obscureText: true,
                             hintText: 'Password',
-                            prefixIconPath: 'assets/icons/Iconly_Light_Show.svg', // Using the exact icon available from the assets
+                            prefixIconPath: 'assets/images/iconly_light_show.svg', // Using the exact icon available from the assets
                             validator: (value) {
                               if (value == null || value.isEmpty) {
                                 return 'Password is required';
